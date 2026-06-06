@@ -3,7 +3,7 @@
 | Проект | https://www.saucedemo.com/ |
 | Component (Компонент) | Каталог |
 | Автор | Булат Камалов |
-| Назначен | NaN |
+| Назначен | Не назначен |
 | Статус | Открыт |
 | Severity | Minor |
 | Priority | Low |
